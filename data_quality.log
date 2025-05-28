@@ -1,0 +1,5 @@
+INFO:root:Duplicate transaction IDs found
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: ba5cb64e-9e72-4902-a157-21738f9dce0c
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 93087054-3c2e-4158-a625-d5fb553822ff
