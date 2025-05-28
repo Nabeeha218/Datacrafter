@@ -77,9 +77,9 @@ This repository contains a complete end-to-end data pipeline project designed to
   - Top-performing products
   - Customer purchase behavior
   - KPIs and summary statistics
-![Dashboard Screenshot](images/Regional sales distribution.png)
-![Dashboard Screenshot](images/Sales trends over time.png)
-![Dashboard Screenshot](images/Top-performing products.png)
+![Dashboard Screenshot](images/Regional_sales_distribution.png)
+![Dashboard Screenshot](images/Sales_trends_over_time.png)
+![Dashboard Screenshot](images/Top-performing_products.png)
 ---
 
 ## 🚀 How to Use This Repository
