@@ -79,8 +79,11 @@ This repository contains a complete end-to-end data pipeline project designed to
   - KPIs and summary statistics
 
 ![Dashboard Screenshot](images/Regional_sales_distribution.png)
+
 ![Dashboard Screenshot](images/Sales_trends_over_time.png)
+
 ![Dashboard Screenshot](images/Top-performing_products.png)
+
 ---
 
 ## 🚀 How to Use This Repository
