@@ -84,6 +84,10 @@ This repository contains a complete end-to-end data pipeline project designed to
 
 ![Dashboard Screenshot](images/Top-performing_products.png)
 
+![Dashboard Screenshot](images/Total_sales_based_on_Transaction_ID.png)
+
+![Dashboard Screenshot](images/YTD_Sales.png)
+
 ---
 
 ## 🚀 How to Use This Repository
